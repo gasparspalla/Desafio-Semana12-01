@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Desafio</string>
+    <string name="strEvHint">Escribe aqui</string>
+    <string name="strTvInput">El valor ingresado es:%1$s</string>
+    <string name="strTvWarning">Por favor,ingrese un valor</string>
+    <string name="strBtnSave">GUARDAR INFO</string>
+    <string name="strBtnNewActivity">LANZAR ACTIVITY</string>
+    <string name="strTvSecondAct">El valor ingresado en la activity anterior es:%1$s</string>
+    <string name="strNotValue">Usted no ha ingresado ningun valor</string>
+</resources>
